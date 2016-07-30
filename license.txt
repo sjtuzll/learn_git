@@ -1,0 +1,1 @@
+This is just a file made for understanding the command git add and git commit.
